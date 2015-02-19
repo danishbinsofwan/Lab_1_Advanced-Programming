@@ -1,0 +1,32 @@
+Matrix Calculator that performs Addition , SUbstraction , Multiplication , MultiplicationAndAddition(Three Matrices)
+
+***Code Implemented by Danish Bin Sofwan 
+   BSCS 2A
+   Reg # 0789	
+
+
+***Working of Program
+	The Program basically Takes in 3 matrices as Input and performs addition of the first two matrices
+							       performs substraction of the first two matrices
+							       performs multiuplication of the first two matrices
+							       performs multiplication of the first two and adds the result into the third matrix
+		
+
+***How to use the Unit test
+	Simply run the program and the main class is that the Unit testing class performs the addition , substraction , multiplication
+	functioning in order. The user is asked to input both the order and values for the matrices
+
+***Error Handling
+	In any case if the operation is not possible due to incompatibility of the order of matrices , The program exits
+
+***Structure of the Program
+	(1)	UnitClass Class		// Performs Unit testing
+	(2)	Add Class		// Performs Addition
+	(3) 	Substract Class		// Performs Substraction
+	(4)     Multiplication Class	// Performs Multiplication
+	(5)	MultiAdd Class		// Performs Multiplication and Addition Both
+	(6)	takeInput Class 	// Takes in Input from User
+
+***Code Implemented by Danish Bin Sofwan 
+   BSCS 2A
+   Reg # 0789	
